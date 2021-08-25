@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### My favorite things to do:
+
+1.  Learn Web Development
+2.  Working out
+3.  Listen to podcasts and audiobooks
+4.  Movies
