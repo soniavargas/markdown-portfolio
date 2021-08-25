@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I just finished a **Nucamp** which is a coding bootcamp.
+I learned about _HTML, CSS, JS, REACT, REACT-NATIVE and NODE_
+I'm getting better at them *everyday*
+
